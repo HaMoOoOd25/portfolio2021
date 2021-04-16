@@ -87,6 +87,14 @@ export default {
           thumbnail: '/assets/img/gdq_final_white.png',
           link: 'https://dashboard.gamedevqatar.com',
           techs: ['MongoDb', 'VueJs', 'NuxtJs', 'ExpressJs', 'NodeJs']
+        },
+        {
+          id: 3,
+          title: 'Coremenus',
+          description: 'Coremenus is an upcoming menu software for Qatar. It comes with 2 main websites, the menu website which is responsible for showing a restaraunts data. The dashboard is for restaraunts managers to manage their products. It has a branded barcode creator, analytics for each company, file manager for managing images, push notifications for customers, sales and discount manager.',
+          thumbnail: '/assets/img/coremenus.png',
+          link: 'https://coremenus.com',
+          techs: ['MongoDb', 'VueJs', 'NuxtJs', 'ExpressJs', 'NodeJs', 'NGINX', 'Vuetify', 'TailwindCss']
         }
       ],
       show: []
